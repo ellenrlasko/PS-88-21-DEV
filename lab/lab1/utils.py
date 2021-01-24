@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 def formatting(title):
-    plt.xticks(rotation=90)
+    plt.xticks(rotation=45)
     plt.ylim(0,700)
     plt.title(title)
     plt.legend()
