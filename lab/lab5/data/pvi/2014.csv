@@ -1,0 +1,436 @@
+State,District,PVI
+Alabama,1,R+15
+Alabama,2,R+17
+Alabama,3,R+16
+Alabama,4,R+28
+Alabama,5,R+17
+Alabama,6,R+28
+Alabama,7,D+20
+Alaska,AL,R+12
+Arizona,1,R+ 4
+Arizona,2,R+ 3
+Arizona,3,D+ 8
+Arizona,4,R+20
+Arizona,5,R+17
+Arizona,6,R+12
+Arizona,7,D+16
+Arizona,8,R+15
+Arizona,9,R+ 1
+Arkansas,1,R+14
+Arkansas,2,R+ 8
+Arkansas,3,R+19
+Arkansas,4,R+15
+California,1,R+10
+California,2,D+20
+California,3,D+ 3
+California,4,R+10
+California,5,D+19
+California,6,D+18
+California,7,EVEN
+California,8,R+10
+California,9,D+ 6
+California,10,R+ 1
+California,11,D+17
+California,12,D+34
+California,13,D+37
+California,14,D+23
+California,15,D+16
+California,16,D+ 7
+California,17,D+20
+California,18,D+18
+California,19,D+19
+California,20,D+21
+California,21,D+ 2
+California,22,R+10
+California,23,R+16
+California,24,D+ 4
+California,25,R+ 3
+California,26,D+ 4
+California,27,D+11
+California,28,D+20
+California,29,D+25
+California,30,D+14
+California,31,D+ 5
+California,32,D+12
+California,33,D+11
+California,34,D+30
+California,35,D+15
+California,36,R+ 1
+California,37,D+34
+California,38,D+12
+California,39,R+ 5
+California,40,D+29
+California,41,D+ 9
+California,42,R+10
+California,43,D+26
+California,44,D+32
+California,45,R+ 7
+California,46,D+ 9
+California,47,D+ 8
+California,48,R+ 7
+California,49,R+ 4
+California,50,R+14
+California,51,D+16
+California,52,D+ 2
+California,53,D+10
+Colorado,1,D+18
+Colorado,2,D+ 8
+Colorado,3,R+ 5
+Colorado,4,R+11
+Colorado,5,R+13
+Colorado,6,D+ 1
+Colorado,7,D+ 5
+Connecticut,1,D+13
+Connecticut,2,D+ 5
+Connecticut,3,D+11
+Connecticut,4,D+ 5
+Connecticut,5,D+ 3
+Delaware,AL,D+ 8
+Florida,1,R+21
+Florida,2,R+ 6
+Florida,3,R+14
+Florida,4,R+19
+Florida,5,D+21
+Florida,6,R+ 9
+Florida,7,R+ 4
+Florida,8,R+ 9
+Florida,9,D+ 8
+Florida,10,R+ 6
+Florida,11,R+11
+Florida,12,R+ 7
+Florida,13,R+ 1
+Florida,14,D+13
+Florida,15,R+ 6
+Florida,16,R+ 6
+Florida,17,R+10
+Florida,18,R+ 3
+Florida,19,R+12
+Florida,20,D+29
+Florida,21,D+10
+Florida,22,D+ 3
+Florida,23,D+ 9
+Florida,24,D+34
+Florida,25,R+ 5
+Florida,26,R+ 1
+Florida,27,R+ 2
+Georgia,1,R+ 9
+Georgia,2,D+ 6
+Georgia,3,R+19
+Georgia,4,D+21
+Georgia,5,D+32
+Georgia,6,R+14
+Georgia,7,R+14
+Georgia,8,R+15
+Georgia,9,R+30
+Georgia,10,R+14
+Georgia,11,R+19
+Georgia,12,R+ 9
+Georgia,13,D+16
+Georgia,14,R+26
+Hawaii,1,D+18
+Hawaii,2,D+21
+Idaho,1,R+18
+Idaho,2,R+17
+Illinois,1,D+28
+Illinois,2,D+29
+Illinois,3,D+ 5
+Illinois,4,D+29
+Illinois,5,D+16
+Illinois,6,R+ 4
+Illinois,7,D+36
+Illinois,8,D+ 8
+Illinois,9,D+15
+Illinois,10,D+ 8
+Illinois,11,D+ 8
+Illinois,12,EVEN
+Illinois,13,EVEN
+Illinois,14,R+ 5
+Illinois,15,R+14
+Illinois,16,R+ 4
+Illinois,17,D+ 7
+Illinois,18,R+11
+Indiana,1,D+10
+Indiana,2,R+ 6
+Indiana,3,R+13
+Indiana,4,R+11
+Indiana,5,R+ 9
+Indiana,6,R+12
+Indiana,7,D+13
+Indiana,8,R+ 8
+Indiana,9,R+ 9
+Iowa,1,D+ 5
+Iowa,2,D+ 4
+Iowa,3,EVEN
+Iowa,4,R+ 5
+Kansas,1,R+23
+Kansas,2,R+ 8
+Kansas,3,R+ 6
+Kansas,4,R+14
+Kentucky,1,R+18
+Kentucky,2,R+16
+Kentucky,3,D+ 4
+Kentucky,4,R+16
+Kentucky,5,R+25
+Kentucky,6,R+ 9
+Louisiana,1,R+26
+Louisiana,2,D+23
+Louisiana,3,R+19
+Louisiana,4,R+13
+Louisiana,5,R+15
+Louisiana,6,R+21
+Maine,1,D+ 9
+Maine,2,D+ 2
+Maryland,1,R+14
+Maryland,2,D+10
+Maryland,3,D+ 9
+Maryland,4,D+26
+Maryland,5,D+14
+Maryland,6,D+ 4
+Maryland,7,D+24
+Maryland,8,D+11
+Massachusetts,1,D+13
+Massachusetts,2,D+ 8
+Massachusetts,3,D+ 6
+Massachusetts,4,D+ 6
+Massachusetts,5,D+14
+Massachusetts,6,D+ 4
+Massachusetts,7,D+31
+Massachusetts,8,D+ 6
+Massachusetts,9,D+ 5
+Michigan,1,R+ 5
+Michigan,2,R+ 7
+Michigan,3,R+ 4
+Michigan,4,R+ 5
+Michigan,5,D+10
+Michigan,6,R+ 1
+Michigan,7,R+ 3
+Michigan,8,R+ 2
+Michigan,9,D+ 6
+Michigan,10,R+ 6
+Michigan,11,R+ 4
+Michigan,12,D+15
+Michigan,13,D+34
+Michigan,14,D+29
+Minnesota,1,R+ 1
+Minnesota,2,R+ 2
+Minnesota,3,R+ 2
+Minnesota,4,D+11
+Minnesota,5,D+22
+Minnesota,6,R+10
+Minnesota,7,R+ 6
+Minnesota,8,D+ 1
+Mississippi,1,R+16
+Mississippi,2,D+13
+Mississippi,3,R+14
+Mississippi,4,R+21
+Missouri,1,D+28
+Missouri,2,R+ 8
+Missouri,3,R+13
+Missouri,4,R+13
+Missouri,5,D+ 9
+Missouri,6,R+12
+Missouri,7,R+19
+Missouri,8,R+17
+Montana,AL,R+ 7
+Nebraska,1,R+10
+Nebraska,2,R+ 4
+Nebraska,3,R+23
+Nevada,1,D+14
+Nevada,2,R+ 5
+Nevada,3,EVEN
+Nevada,4,D+ 4
+New Hampshire,1,R+ 1
+New Hampshire,2,D+ 3
+New Jersey,1,D+13
+New Jersey,2,D+ 1
+New Jersey,3,R+ 1
+New Jersey,4,R+ 7
+New Jersey,5,R+ 4
+New Jersey,6,D+ 8
+New Jersey,7,R+ 6
+New Jersey,8,D+24
+New Jersey,9,D+14
+New Jersey,10,D+34
+New Jersey,11,R+ 6
+New Jersey,12,D+14
+New Mexico,1,D+ 7
+New Mexico,2,R+ 5
+New Mexico,3,D+ 8
+New York,1,R+ 2
+New York,2,R+ 1
+New York,3,EVEN
+New York,4,D+ 3
+New York,5,D+35
+New York,6,D+13
+New York,7,D+34
+New York,8,D+35
+New York,9,D+32
+New York,10,D+23
+New York,11,R+ 2
+New York,12,D+27
+New York,13,D+42
+New York,14,D+26
+New York,15,D+43
+New York,16,D+21
+New York,17,D+ 5
+New York,18,EVEN
+New York,19,D+ 1
+New York,20,D+ 7
+New York,21,EVEN
+New York,22,R+ 3
+New York,23,R+ 3
+New York,24,D+ 5
+New York,25,D+ 7
+New York,26,D+12
+New York,27,R+ 8
+North Carolina,1,D+19
+North Carolina,2,R+10
+North Carolina,3,R+11
+North Carolina,4,D+20
+North Carolina,5,R+11
+North Carolina,6,R+10
+North Carolina,7,R+12
+North Carolina,8,R+11
+North Carolina,9,R+ 8
+North Carolina,10,R+11
+North Carolina,11,R+13
+North Carolina,12,D+26
+North Carolina,13,R+ 8
+North Dakota,AL,R+10
+Ohio,1,R+ 6
+Ohio,2,R+ 8
+Ohio,3,D+17
+Ohio,4,R+ 9
+Ohio,5,R+ 7
+Ohio,6,R+ 8
+Ohio,7,R+ 6
+Ohio,8,R+15
+Ohio,9,D+15
+Ohio,10,R+ 3
+Ohio,11,D+30
+Ohio,12,R+ 8
+Ohio,13,D+11
+Ohio,14,R+ 4
+Ohio,15,R+ 6
+Ohio,16,R+ 6
+Oklahoma,1,R+18
+Oklahoma,2,R+20
+Oklahoma,3,R+26
+Oklahoma,4,R+19
+Oklahoma,5,R+12
+Oregon,1,D+ 7
+Oregon,2,R+10
+Oregon,3,D+22
+Oregon,4,D+ 2
+Oregon,5,EVEN
+Pennsylvania,1,D+28
+Pennsylvania,2,D+38
+Pennsylvania,3,R+ 8
+Pennsylvania,4,R+ 9
+Pennsylvania,5,R+ 8
+Pennsylvania,6,R+ 2
+Pennsylvania,7,R+ 2
+Pennsylvania,8,R+ 1
+Pennsylvania,9,R+14
+Pennsylvania,10,R+12
+Pennsylvania,11,R+ 6
+Pennsylvania,12,R+ 9
+Pennsylvania,13,D+13
+Pennsylvania,14,D+15
+Pennsylvania,15,R+ 2
+Pennsylvania,16,R+ 4
+Pennsylvania,17,D+ 4
+Pennsylvania,18,R+10
+Rhode Island,1,D+15
+Rhode Island,2,D+ 8
+South Carolina,1,R+11
+South Carolina,2,R+16
+South Carolina,3,R+18
+South Carolina,4,R+15
+South Carolina,5,R+ 9
+South Carolina,6,D+21
+South Carolina,7,R+ 7
+South Dakota,AL,R+10
+Tennessee,1,R+25
+Tennessee,2,R+20
+Tennessee,3,R+16
+Tennessee,4,R+18
+Tennessee,5,D+ 5
+Tennessee,6,R+21
+Tennessee,7,R+18
+Tennessee,8,R+19
+Tennessee,9,D+25
+Texas,1,R+24
+Texas,2,R+16
+Texas,3,R+17
+Texas,4,R+25
+Texas,5,R+17
+Texas,6,R+11
+Texas,7,R+13
+Texas,8,R+29
+Texas,9,D+25
+Texas,10,R+11
+Texas,11,R+31
+Texas,12,R+19
+Texas,13,R+32
+Texas,14,R+12
+Texas,15,D+ 5
+Texas,16,D+12
+Texas,17,R+13
+Texas,18,D+24
+Texas,19,R+26
+Texas,20,D+ 6
+Texas,21,R+12
+Texas,22,R+15
+Texas,23,R+ 3
+Texas,24,R+13
+Texas,25,R+12
+Texas,26,R+20
+Texas,27,R+13
+Texas,28,D+ 7
+Texas,29,D+12
+Texas,30,D+27
+Texas,31,R+12
+Texas,32,R+10
+Texas,33,D+18
+Texas,34,D+ 8
+Texas,35,D+11
+Texas,36,R+25
+Utah,1,R+27
+Utah,2,R+18
+Utah,3,R+28
+Utah,4,R+16
+Vermont,AL,D+16
+Virginia,1,R+ 6
+Virginia,2,R+ 2
+Virginia,3,D+27
+Virginia,4,R+ 4
+Virginia,5,R+ 5
+Virginia,6,R+12
+Virginia,7,R+10
+Virginia,8,D+16
+Virginia,9,R+15
+Virginia,10,R+ 2
+Virginia,11,D+10
+Washington,1,D+ 4
+Washington,2,D+ 8
+Washington,3,R+ 2
+Washington,4,R+13
+Washington,5,R+ 7
+Washington,6,D+ 5
+Washington,7,D+29
+Washington,8,R+ 1
+Washington,9,D+17
+Washington,10,D+ 5
+West Virginia,1,R+14
+West Virginia,2,R+11
+West Virginia,3,R+14
+Wisconsin,1,R+ 3
+Wisconsin,2,D+17
+Wisconsin,3,D+ 5
+Wisconsin,4,D+23
+Wisconsin,5,R+13
+Wisconsin,6,R+ 5
+Wisconsin,7,R+ 2
+Wisconsin,8,R+ 2
+Wyoming,AL,R+22
